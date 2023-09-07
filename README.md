@@ -3,4 +3,4 @@ transformer model simulator using matlab
 
 just Encoder
 
-not a finisihed model
+not a finished model
