@@ -1,5 +1,5 @@
 # Transformer-model-simulator
-transformer model simulator by using matlab
+transformer model simulator using matlab
 
 just Encoder
 
