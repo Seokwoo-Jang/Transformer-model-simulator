@@ -1,4 +1,4 @@
-pofunction PE_sample = positional_encoding(sample)
+function PE_sample = positional_encoding(sample)
 % parameter 불러오기
 load('../../data/parameter.mat')
 
